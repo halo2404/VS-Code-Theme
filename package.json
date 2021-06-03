@@ -6,9 +6,23 @@
     "engines": {
         "vscode": "^1.56.0"
     },
+    "publisher": "koehler-welt.de",
     "categories": [
         "Themes"
     ],
+    "galleryBanner": {
+        "color": "#0C1016",
+        "theme": "dark"
+    },
+    "bugs": {
+        "url": "https://github.com/halo2404/VS-Code-Theme/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/halo2404/VS-Code-Theme"
+    },
+    "icon": "icon.png",
+    "keywords": ["koehler-welt"],
     "contributes": {
         "themes": [
             {
